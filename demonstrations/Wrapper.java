@@ -1,4 +1,4 @@
-class Main {
+public class Wrapper {
   public static void main(String[] args) {
     boxing();
     printBinaryIntegers();
