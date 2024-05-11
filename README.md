@@ -12,13 +12,13 @@
 
  # Demonstrations
   <ul>
-   <li> Wrapper.java -- a demonstration for wrapper classes with boxing and autoboxing, max and mins, and parsing Strings to ints  </li>
+   <li> Wrapper.java -- a demonstration for wrapper classes with boxing and autoboxing, maximum and minimum values, and parsing Strings to ints  </li>
    <li> Vehicle.java -- code demonstration for a superclass for vehicles </li>
    <li> Car.java -- code demonstration of a subclass under vehicles for cars </li>
   </ul>
 
 # Misc misc
   <ul>
-   <li> Scholarship.java -- answer key for App Development's scholarship if/else question on CodeHS </li>
-   <li> WaveLength.java -- answer key for App Development's wavelength if/else question on CodeHS </li>
+   <li> Scholarship.java -- answer key for an if/else question on CodeHS on scholarships </li>
+   <li> WaveLength.java -- answer key for an if/else question on CodeHS on wavelengths </li>
   </ul>
